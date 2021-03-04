@@ -1,5 +1,6 @@
 # Linux how I like
 
+This is a reference guide for me when I setup a workstation in future
 
 ## Distros
 * Debian : My first linux and always first choice. (Love at first sight)
