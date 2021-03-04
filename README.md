@@ -10,10 +10,7 @@
 * There are large resources for apt on internet.
 * 
 ## Desktop Environment
-* GNOME is my favourite window manager.
-* True it has higher memory usage as compared to XFCE etc.
-* I just love the look and feel of GNOME. The minimalism is lovely.
-* I can work with KDE-plasma but not for long.
+* i3 and GNOME are my favourite environments
 
 ## Applications
 * I use only four applications : Terminal, Web browser, text editor, Typora
