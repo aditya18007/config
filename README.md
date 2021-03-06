@@ -9,9 +9,9 @@ This is a reference guide for me when I setup a workstation in future
 ## Package Manager
 * apt: Easy to use and well supported package manager.
 * There are large resources for apt on internet.
-* 
 ## Desktop Environment
-* i3 and GNOME are my favourite environments
+* GNOME is my favourite.
+*  Beautiful and minimalist. 
 
 ## Applications
 * I use only four applications : Terminal, Web browser, text editor, Typora
@@ -28,7 +28,6 @@ This is a reference guide for me when I setup a workstation in future
 
 #### Tmux
 * With neovim, Tmux is a really helpful tool
-* 
 #### Theme
 * Even thoug default theme is good, Powerline seems a good addition.
 * For adding powerline : https://fedoramagazine.org/add-power-terminal-powerline/
