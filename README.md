@@ -19,8 +19,8 @@ This is a reference guide for me when I setup a workstation in future
 
 ## Terminal 
 #### Emulator
-* I like the default ZTerminal of Ubuntu
-* But, most of the times, I feel the need of multiple terminal windows as available with Terminator
+* I like the default Terminal of Ubuntu
+* Theme from here. Gruvbox dark : https://github.com/Mayccoll/Gogh
 
 #### Bash Shell
 * I haven't used any other shell like zsh or fish.
