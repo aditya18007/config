@@ -15,7 +15,7 @@ This is a reference guide for me when I setup a workstation in future
 * Applications theme : Yaru-light
 * Cursor : Yaru
 * Icons : Yaru
-* Wallpapers : https://wallpapersden.com/minimalist-wallpapers/
+* Wallpapers : See the folder by same name. All from this site : https://wallpapersden.com/minimalist-wallpapers/
 ## Applications
 * I use only four applications : Terminal, Web browser, text editor, Typora
 * There are other system utilities that I need.
