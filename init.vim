@@ -23,9 +23,6 @@ let g:floaterm_keymap_toggle = '<Leader>t'
 "set arguements for code style
 filetype plugin indent on  "required
 syntax on
-set colorcolumn=80
-set background=dark
-highlight ColorColumn ctermbg=0 guibg=lightgrey
 set number "I need line numbers
 set nowrap
 set smartcase
