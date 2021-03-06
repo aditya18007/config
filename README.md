@@ -11,8 +11,11 @@ This is a reference guide for me when I setup a workstation in future
 * There are large resources for apt on internet.
 ## Desktop Environment
 * GNOME is my favourite.
-*  Beautiful and minimalist. 
-
+* Beautiful and minimalist. 
+* Applications theme : Yaru-light
+* Cursor : Yaru
+* Icons : Yaru
+* Wallpapers : https://wallpapersden.com/minimalist-wallpapers/
 ## Applications
 * I use only four applications : Terminal, Web browser, text editor, Typora
 * There are other system utilities that I need.
