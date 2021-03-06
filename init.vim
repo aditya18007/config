@@ -18,7 +18,6 @@ colorscheme gruvbox "It is lovely color-scheme
 
 "Open nerdtree
 map <silent> <C-n> :NERDTreeFocus<CR> 
-let g:floaterm_keymap_toggle = '<Leader>t'
 
 "set arguements for code style
 filetype plugin indent on  "required
