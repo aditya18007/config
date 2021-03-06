@@ -65,12 +65,10 @@ This is a reference guide for me when I setup a workstation in future
 * Robust, private.
 * I do not use any plugins. 
 * I DO NOT want any new suggestions, articles etc. I want full control over my browsing.
+* Tabliss addon. Loved it.
 
 ### Edge
-* It is fishy. But stable and robust.
-* I use it for stuff like email etc.
-* Edge has a great interface and a brilliant pdf reader + annotator.
-* I do not do everyda browsing and all on it
+* Only for pdf reader and annotator.
 
 ### Typora
 * I love typora
